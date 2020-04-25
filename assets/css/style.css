@@ -1,0 +1,4 @@
+#toDoBox, #taskListBox, #taskList{
+    display: flex;
+    flex-wrap: wrap;
+}
